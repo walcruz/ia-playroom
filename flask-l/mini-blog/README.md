@@ -1,1 +1,2 @@
-from: https://j2logo.com/tutorial-flask-leccion-2-plantillas/
+- from: https://j2logo.com/tutorial-flask-leccion-2-plantillas/
+- https://j2logo.com/tutorial-flask-leccion-3-formularios-wtforms/
